@@ -1,0 +1,40 @@
+img{
+    width: 450px;
+    border-radius: 15px;
+}
+body{
+    text-align: center;
+    background: linear-gradient(rgb(30, 83, 230),rgb(123, 123, 123));
+}
+ul{
+    list-style: none;
+    top: 0px;
+    cursor: pointer;
+    z-index: 77;
+    background: linear-gradient(rgba(123, 123, 123, 0), rgba(30, 83, 230, 0) );
+position:fixed;
+width: 100%;
+}
+.Fornice{
+    float: left;
+    padding-left: 77px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 77px;
+}
+h1{font-family: 'Moon Dance';
+    font-size: 50px;
+}
+#Hola{
+    font-family: 'Explora';
+    font-size: 25px;
+}
+#Segunda{width: 550px;
+    border-radius: 15px;
+    height: 400px;
+}
+#Ira{
+    width: 650px;
+    border-radius: 15px;
+    height: 400px;
+}
